@@ -30,34 +30,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2021/08/08/%E9%AB%98%E6%95%88%E6%9E%81%E7%AE%80%E7%9A%84%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7/</loc>
-    
-    <lastmod>2021-08-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/12/05/%E7%88%B6%E4%BA%B2%E7%9A%84%E8%8D%89%E5%8E%9F%E6%AF%8D%E4%BA%B2%E7%9A%84%E6%B2%B3/</loc>
-    
-    <lastmod>2021-08-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2021/08/05/%E7%A5%9E%E7%A7%98%E7%BB%9A%E7%83%82%E7%9A%84%E6%B3%95%E5%9B%BE%E9%BA%A6%E5%92%8C%E8%83%A1%E9%A9%AC%E6%9C%A8/</loc>
-    
-    <lastmod>2021-08-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/12/02/%E5%B0%8F%E9%A9%AC%E8%BF%87%E6%B2%B3/</loc>
-    
-    <lastmod>2021-08-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/2020/11/27/JavaFirstParagrpha/</loc>
     
     <lastmod>2021-08-07</lastmod>
@@ -65,21 +37,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/2020/11/27/CityThink/</loc>
-    
-    <lastmod>2021-08-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/books/index.html</loc>
+    <loc>http://example.com/links/index.html</loc>
     
     <lastmod>2021-05-31</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/links/index.html</loc>
+    <loc>http://example.com/books/index.html</loc>
     
     <lastmod>2021-05-31</lastmod>
     
@@ -95,28 +60,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E6%80%9D%E8%80%83/</loc>
-    <lastmod>2021-08-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/Java/</loc>
-    <lastmod>2021-08-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/%E8%AF%BB%E4%B9%A6/</loc>
-    <lastmod>2021-08-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/%E7%BB%98%E7%94%BB/</loc>
     <lastmod>2021-08-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -125,28 +69,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E5%9F%8E%E4%B9%A1%E5%8F%91%E5%B1%95/</loc>
-    <lastmod>2021-08-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/categories/%E8%BD%AF%E4%BB%B6%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2021-08-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/%E7%A7%91%E5%AD%A6%E7%A4%BE%E4%BC%9A/</loc>
-    <lastmod>2021-08-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/%E6%96%87%E5%AD%A6%E8%89%BA%E6%9C%AF/</loc>
     <lastmod>2021-08-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
